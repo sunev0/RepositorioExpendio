@@ -974,7 +974,7 @@ public class panelnicio extends javax.swing.JFrame {
                 .addComponent(jLabel12)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addComponent(cbxRol, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 26, Short.MAX_VALUE)
+                .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, 36, Short.MAX_VALUE)
                 .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(btnGuardarUsu3, javax.swing.GroupLayout.PREFERRED_SIZE, 34, javax.swing.GroupLayout.PREFERRED_SIZE)
                     .addComponent(btnAgregarUser3, javax.swing.GroupLayout.PREFERRED_SIZE, 34, javax.swing.GroupLayout.PREFERRED_SIZE)
@@ -982,7 +982,7 @@ public class panelnicio extends javax.swing.JFrame {
                 .addGap(21, 21, 21))
         );
 
-        jPanelPestañaUsuarios.add(jPanel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 20, 270, 450));
+        jPanelPestañaUsuarios.add(jPanel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 20, 270, 460));
 
         jTableUser.setFont(new java.awt.Font("Candara", 0, 12)); // NOI18N
         jTableUser.setModel(new javax.swing.table.DefaultTableModel(
